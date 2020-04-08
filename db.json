@@ -9,12 +9,10 @@
                   "id": 1,
                   "name": "Camry",
                   "photo": "https://static.carmudi.co.id/tgBOIiLsQOU6f9O7u0ILwoDjMpg=/900x405/https://www.trenotomotif.com/ncs/images/TOYOTA/Camry/Thumbnail%20camry.jpg",
-                  "category" : [
-                   {
+                  "category" : {
                      "id" : "2",
                      "name": "Automatic"
-                   }
-                  ],
+                   },
                   "price" :"636000000"
                 },
            
@@ -22,13 +20,10 @@
                  "id": 2,
                  "name": "Supra",
                  "photo": "https://static.carmudi.co.id/_l1c5fiQUJOTxAUy9WgOuuwBnbo=/900x405/https://trenotomotif.com/ncs/images/TOYOTA/Toyota%20Supra/Toyota_Supra.jpg",
-                 "category" : [
-                   {
+                 "category" : {
                      "id" : "2",
                      "name": "Automatic"
-                   }
-           
-                  ],
+                   },
                  "price" :"2520000000"
                }
         ]
@@ -43,13 +38,10 @@
               "id": 3,
               "name": "Jazz",
               "photo": "https://static.carmudi.co.id/mUJee9-oZ_YIEchdi7RhdqVRRmw=/900x405/https://trenotomotif.com/ncs/images/honda/Jazz/honda-jazz-2019-depan.jpg",
-              "category" : [
-                {
+              "category" : {
                   "id" : "2",
                   "name": "Automatic"
-                }
-        
-               ],
+                },
               "price" :"250000000"
               
             },
@@ -58,13 +50,10 @@
               "id": 4,
               "name": "CityR",
               "photo": "https://static.carmudi.co.id/yy5I0WmugnGBMK6nFrP900Ex1Gk=/900x405/https://trenotomotif.com/ncs/images/honda/thumb_category-r.jpg",
-              "category" : [
-                {
+              "category" : {
                   "id" : "1",
                   "name": "Manual"
-                }
-        
-               ],
+                },
               "price" :"1052000000"
             }
         ]
@@ -80,13 +69,10 @@
                   "id": 5,
                   "name": "Juke",
                   "photo": "https://static.carmudi.co.id/pCYeRPGeEMolEMfQh1yFzR8seXY=/900x405/https://www.trenotomotif.com/ncs/images/Thumbnail/Nissan/Nissan%20juke.jpg",
-                  "category" : [
-                  {
+                  "category" : {
                       "id" : "2",
                       "name": "Automatic"
-                  }
-          
-                  ],
+                  },
                   "price" :"303000000"
               },
 
@@ -94,13 +80,10 @@
                   "id": 6,
                   "name": "Livina",
                   "photo": "https://static.carmudi.co.id/z-JEvSNuAeBXfMjpmCpFAgViR-g=/900x405/https://trenotomotif.com/ncs/images/nissan/Grand%20Livina/grandlivina-1_ncs.jpg",
-                  "category" : [
-                    {
+                  "category" : {
                       "id" : "2",
                       "name": "Automatic"
-                    }
-            
-                   ],
+                    },
                   "price" :"208000000"
               }
         ]
@@ -114,13 +97,10 @@
               "id": 7,
               "name": "Cross",
               "photo": "https://static.carmudi.co.id/sbzfNL26zzOgk2BQXuxJ4LZ0WUY=/900x405/https://www.trenotomotif.com/ncs/images/DATSUN/Cross/Cross%20depan%203;4.jpg",
-              "category" : [
-                {
+              "category" : {
                   "id" : "2",
                   "name": "Automatic"
-                }
-        
-               ],
+                },
               "price" :"161000000"
        
           },
@@ -129,17 +109,15 @@
               "id": 8,
               "name": "GoPanca",
               "photo": "https://static.carmudi.co.id/gUE80bhck0aAA83lgLpZS4I6Ufw=/900x405/https://www.trenotomotif.com/ncs/images/DATSUN/GO/GO%20Depan%203;4.jpg",
-              "category" : [
-                {
+              "category" : {
                   "id" : "2",
                   "name": "Automatic"
-                }
-        
-               ],
+                },
               "price" :"112000000"
           }
         ]
       },
+
       {
         "id" : "5",
         "name": "Mistubishi",
@@ -149,13 +127,10 @@
               "id": 9,
               "name": "PajeroSport",
               "photo": "https://static.carmudi.co.id/e9E793bqdURihw1jYnb0PLtIw4o=/900x405/https://trenotomotif.com/ncs/images/mitsubishi/Pajero%20Sport/PajeroSport-1_ncs.jpg",
-              "category" : [
-                {
+              "category" : {
                   "id" : "2",
                   "name": "Automatic"
-                }
-        
-               ],
+                },
               "price" :"491000000"
           },
 
@@ -163,13 +138,10 @@
               "id": 10,
               "name": "L300",
               "photo": "https://static.carmudi.co.id/rgEXLnJgKQzTskUoPvCzh3u86ks=/900x405/https://trenotomotif.com/ncs/images/mitsubishi/L300/L300-1_ncs.jpg",
-              "category" : [
-                {
+              "category" : {
                   "id" : "1",
                   "name": "Manual"
-                }
-        
-               ],
+                },
               "price" :"186000000"
           }
       ]
